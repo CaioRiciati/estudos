@@ -11,6 +11,7 @@ while True:
         print("vc ganhou!! nao vai morrer bixo")
     elif     numero == 7:
         print("vc ganhou!! nao vai morrer bixo")
+        break
     else:
         print("se fudeu")
     print("RECOMEÇANDO...")

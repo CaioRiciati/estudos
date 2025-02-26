@@ -16,7 +16,7 @@
 }
 
 body {
-    background-image: url('4844c10db206ec5e78e7f1e47c361b7f.jpg');
+    background-image: url('imagens/4844c10db206ec5e78e7f1e47c361b7f.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -109,7 +109,7 @@ h1{
   }
 
   .menu:hover{
-    background-color: #333333;
+    background-color: #000000;
     padding: 10px; 
     border-radius: 10px;
   }

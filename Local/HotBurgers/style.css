@@ -109,7 +109,7 @@ h1{
   }
 
   .menu:hover{
-    background-color: #000000;
+    background-color: #1f1f1f;
     padding: 10px; 
     border-radius: 10px;
   }

@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'burgao';
-    src: url('Bob\'s Burgers.ttf') format('truetype'); /* Adiciona o formato da fonte */
+    src: url('fonts/Bob\'s\ Burgers.ttf') format('truetype'); /* Adiciona o formato da fonte */
 }
 
 @font-face {
     font-family: 'dudu';
-    src: url('Dudu_Calligraphy.ttf') format('truetype'); /* Adiciona o formato da fonte */
+    src: url('fonts/Dudu_Calligraphy.ttf') format('truetype'); /* Adiciona o formato da fonte */
 }
 
 

@@ -112,3 +112,10 @@ main{
   padding: 10px; 
   border-radius: 10px;
 }
+
+.chefe {
+  margin-left: -36%;
+  margin-bottom: -39%;
+  margin-top: -21%;
+  display: block;
+}

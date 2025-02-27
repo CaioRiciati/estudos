@@ -89,7 +89,7 @@ main{
 background-color: #B0B0B0;
 width: 900px;
 margin: auto;
-height: 300px;
+height: 400px;
 border-radius: 10px;
 box-shadow: 0px 0px 10px;
 margin-bottom: 20px;
@@ -123,4 +123,14 @@ h2{
 
 li{
   font-size: 30px;
+  list-style: none;
+}
+
+
+.bacon{
+  display: block;
+  margin: 0;
+  margin: -10% 10% 10% -10%;
+  background-color: #4E342E;
+
 }

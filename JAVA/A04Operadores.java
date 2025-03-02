@@ -6,5 +6,19 @@ public class A04Operadores {
 
     // + - / *
         System.out.println(coiso );
+
+        //%
+        int resto = 20 % 2;
+        System.out.println(resto);
+
+        //< > <=  >=  ==  !=
+
+        boolean isDezMaiorQueVinte = 10 > 20;
+        boolean isDezMenorQueVinte = 10 < 20;
+        boolean isDezIgualVinte = 10 == 20;
+
+        System.out.println(isDezMaiorQueVinte);
+
+
     }
 }

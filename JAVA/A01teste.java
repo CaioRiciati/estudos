@@ -10,9 +10,9 @@ public class A01teste{
         short idadeShort = 10;
         boolean verdadeiro = true;
         boolean falso = false;
-        char caractere = 'K';
+        char caractere = 126;
             System.out.println(age + salarioDouble);
             System.out.println(salarioDouble);
-            System.out.println("isso ae é meu salario po mas adiciona uns zeros");
+            System.out.println(caractere);
 }
 }

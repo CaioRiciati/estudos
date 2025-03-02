@@ -7,11 +7,11 @@ public class A01teste{
         double salarioDouble = 1500;
         float salarioFloat = 2000;
         byte idadeByte = 127;
-        short idadeShort = 10;
+        short idadeShort = (short) 33000l;
         boolean verdadeiro = true;
         boolean falso = false;
         char caractere = 126;
-            System.out.println(age + salarioDouble);
+            System.out.println(age + salarioDouble); 
             System.out.println(salarioDouble);
             System.out.println(caractere);
 }

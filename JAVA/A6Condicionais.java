@@ -7,14 +7,12 @@ public class A6Condicionais {
 
         if (isAutorizadoComprarBebida){
             System.out.println("pode comprar bebida");
-        } 
+        } else{
+            System.out.println("Você não esta autorizado a comprar bebida!!");
+        }
 
         //!
-            
-        if (!isAutorizadoComprarBebida) {
-            System.out.println("Você não esta autorizado a comprar bebida!!");
-            
-        }
+
 
         
     }

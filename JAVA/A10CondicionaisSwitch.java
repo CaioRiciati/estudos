@@ -44,6 +44,6 @@ public class A10CondicionaisSwitch {
                 System.out.println(" invalido!!");
                 break;
         }
-
+                
     }
 }

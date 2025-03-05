@@ -1,8 +1,21 @@
 public class A17Arrays {
     public static void main(String[] args) {
+        //byte, short, int, long, float e double : 0
+        //char : '\u0000'
+        //boolena: false
+        //String: null
 
-        int [] idades = new int[4];
+        String [] Nomes = new String[3];
+         Nomes [0]= "goku";
+         Nomes [1]= "vegeta";
+         Nomes [2]= "naruto";
+         //Nomes [3]= "sasuke";
 
-        System.out.println(idades[3]);
+
+     for(int i = 0; i < Nomes.length; i++){
+        System.out.println(Nomes[i]);
+
+        Nomes = new String[8];
+     }
     }
 }

@@ -1,5 +1,3 @@
-import javax.sound.sampled.SourceDataLine;
-
 public class A5operadoresLogicos {
     public static void main(String[] args) {
         //  &&(and) ||(or) !(negação)

@@ -17,5 +17,9 @@ public class A22Revisão {
 
         System.out.println("A soma dos números pares é: " + soma);
         
+ 
+        System.out.println(soma);
+
+    
     }
 }
